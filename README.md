@@ -1,27 +1,21 @@
- 👋 Hi, I’m @arifaydogan
- 
- 
- ![1584023795](https://user-images.githubusercontent.com/13220440/138233550-621b4372-99ed-4edd-8518-c04ab88dca80.jpg)
+ ## 👋 Hi, I’m @arifaydogan <img src="https://user-images.githubusercontent.com/13220440/138233550-621b4372-99ed-4edd-8518-c04ab88dca80.jpg" width="25%" align="right">
 
-  ![](https://img.shields.io/badge/Editor-IntellijIDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/DB-postreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
-  
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+  ![](https://img.shields.io/badge/Editor-IntellijIDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=00aed8)
+  ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=00aed8)
+  ![](https://img.shields.io/badge/DB-postreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=00aed8)
+  ![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=00aed8)
+  ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00aed8)
+<br>
+  ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=00aed8)
+  ![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=00aed8)
+  ![](https://img.shields.io/badge/Tool-Redis-informational?style=flat&logo=redis&logoColor=white&color=00aed8)
+  ![](https://img.shields.io/badge/Tool-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=00aed8)
+  ![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=00aed8)
+   ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=00aed8)
+  ![](https://img.shields.io/badge/Automobile-Leon-informational?style=flat&logo=seat&logoColor=white&color=00aed8)
+  ![](https://img.shields.io/badge/Social-/arifaydogan-informational?style=flat&logo=linkedin&logoColor=white&color=00aed8)
+<br>
 ```java
 package arifaydogan;
 
