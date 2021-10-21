@@ -1,4 +1,7 @@
  👋 Hi, I’m @arifaydogan
+ 
+ 
+ ![1584023795](https://user-images.githubusercontent.com/13220440/138233550-621b4372-99ed-4edd-8518-c04ab88dca80.jpg)
 
   ![](https://img.shields.io/badge/Editor-IntellijIDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
