@@ -1,4 +1,4 @@
- ## 👋 Hi, I’m @arifaydogan <img src="https://user-images.githubusercontent.com/13220440/138233550-621b4372-99ed-4edd-8518-c04ab88dca80.jpg" width="25%" align="right">
+## 👋 Hi, I’m @arifaydogan <img src="https://user-images.githubusercontent.com/13220440/138233550-621b4372-99ed-4edd-8518-c04ab88dca80.jpg" width="25%" align="right">
 
 
   ![](https://img.shields.io/badge/Editor-IntellijIDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=00aed8)
@@ -14,7 +14,7 @@
   ![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=00aed8)
    ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=00aed8)
   ![](https://img.shields.io/badge/Automobile-Leon-informational?style=flat&logo=seat&logoColor=white&color=00aed8)
-  ![](https://img.shields.io/badge/Social-/arifaydogan-informational?style=flat&logo=linkedin&logoColor=white&color=00aed8)
+  ![](https://img.shields.io/badge/Social-arifaydogan-informational?style=flat&logo=linkedin&logoColor=white&color=00aed8)
 <br>
 ```java
 package arifaydogan;
