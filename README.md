@@ -43,6 +43,7 @@ public class About extends Me implements SoftwareEngineer<ArifAydogan> {
         skills.put("databases", Arrays.asList(new Technology[]{new MySql(), new Oracle(), new PostreSQL(), new Redis()}));
         skills.put("misc",      Arrays.asList(new Technology[]{new Docker(), new Kubernetes(), new RabbitMQ()}));
         skills.put("frameworks",Arrays.asList(new Technology[]{new Spring(), new JSF(), new Dropwizard()}));
+        //TODO : keep adding more...
         return skills;
     }
     
